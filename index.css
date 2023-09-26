@@ -49,6 +49,18 @@ h2{
 
 }
 
+.match{
+  padding-left:10px; 
+  color: white; 
+  text-decoration: none;
+}
+
+
+.match:hover{
+  text-decoration: underline;
+
+}
+
 .inputbox label{
   position: absolute;
   top: 65%;
@@ -58,6 +70,8 @@ h2{
   font-size: 1em;
   pointer-events: none;
   transition: .4s;
+
+
 
 
 }
